@@ -85,13 +85,13 @@ Step 9. Place the longer leg of the LED (The anode, positive (+) leg) into h21 o
 
 Step 10. Take out the 560 Ohm Resistor and read the below. 
 
-    A resistor is a fundamental electronic component that resists the flow of electrical current. It's used in circuits to control current flow, divide voltages, and limit the power to other components. Resistors come in various sizes and resistance values, which determine how much they impede the current.
+A resistor is a fundamental electronic component that resists the flow of electrical current. It's used in circuits to control current flow, divide voltages, and limit the power to other components. Resistors come in various sizes and resistance values, which determine how much they impede the current.
 
-    The resistance value of a resistor is measured in Ohms (Ω), and this value is usually indicated on the resistor using a color code system or numerical markings, especially for surface-mount resistors.
+The resistance value of a resistor is measured in Ohms (Ω), and this value is usually indicated on the resistor using a color code system or numerical markings, especially for surface-mount resistors.
 
-    A 560 Ohm resistor can be used to limit the current going through an LED to prevent it from burning out. The specific value needed depends on the voltage of the power source and the characteristics of the LED.
+A 560 Ohm resistor can be used to limit the current going through an LED to prevent it from burning out. The specific value needed depends on the voltage of the power source and the characteristics of the LED.
 
-    With a 3 Volt power source across a 560 Ohm resistor, the current flowing through the resistor would be approximately 0.00536 amperes, or 5.36 milliamperes. This is roughly the amount of current that will be given to the LED in our example.
+With a 3 Volt power source across a 560 Ohm resistor, the current flowing through the resistor would be approximately 0.00536 amperes, or 5.36 milliamperes. This is roughly the amount of current that will be given to the LED in our example.
 
 Step 11. It does not matter which side of the resistor is placed. Insert one pin of the resistor into g21. Insert the other side of the resistor across the gap of the breadboard into c21. 
 
