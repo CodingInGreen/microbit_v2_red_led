@@ -33,7 +33,7 @@ Assumption:
 
 You've already installed Rust on your local machine - if you haven't, refer to this section of the Rust Discovery Book 
 
-    - https://docs.rust-embedded.org/discovery/microbit/03-setup/index.html
+    https://docs.rust-embedded.org/discovery/microbit/03-setup/index.html
 
 Step 1. - Clone this repository to your local machine on in your terminal window.
 
