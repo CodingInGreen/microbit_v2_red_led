@@ -63,23 +63,23 @@ Step 6. - After flashing is complete, eject the micro:bit V2 from your computer.
 
 Step 7. Take out your breadboard and lay it on a dry, flat surface. 
 
-    An 830 pin solderless breadboard is a common tool used in electronics for prototyping and testing circuits without the need for soldering.
+An 830 pin solderless breadboard is a common tool used in electronics for prototyping and testing circuits without the need for soldering.
 
-    830 Pin Layout: This type of breadboard typically has 830 connection points or "tie points." These are arranged in rows and columns, providing a flexible platform for assembling electronic components and circuits.
+830 Pin Layout: This type of breadboard typically has 830 connection points or "tie points." These are arranged in rows and columns, providing a flexible platform for assembling electronic components and circuits.
 
-    Positive and Negative Rails: On either side of the breadboard, there are typically two sets of long horizontal rows known as rails or buses. These are usually marked with "+" (positive) and "-" (negative) signs. They are used to distribute power throughout the breadboard. 
+Positive and Negative Rails: On either side of the breadboard, there are typically two sets of long horizontal rows known as rails or buses. These are usually marked with "+" (positive) and "-" (negative) signs. They are used to distribute power throughout the breadboard. 
 
-    Central Gap: The breadboard has a central gap or divider running down the middle. This gap is crucial because it prevents short circuits between the legs of integrated circuits (ICs) or other dual-inline components when they are placed over the gap.
+Central Gap: The breadboard has a central gap or divider running down the middle. This gap is crucial because it prevents short circuits between the legs of integrated circuits (ICs) or other dual-inline components when they are placed over the gap.
 
-    Rows A through J: On either side of the central gap, there are rows on each side. Labeled A through E on one side, and F through J on the other side. These rows contain sets of five connection points each. 
+Rows A through J: On either side of the central gap, there are rows on each side. Labeled A through E on one side, and F through J on the other side. These rows contain sets of five connection points each. 
 
-    Connection points in multiples of 5's: The numbers running from 1 to 65 in multiples of 5 on the breadboard's columns are there for reference and organization. They serve a couple of key purposes, but mainly when working with others or following instructions , these numbers allow for clear communication about where components should be placed. 
+Connection points in multiples of 5's: The numbers running from 1 to 65 in multiples of 5 on the breadboard's columns are there for reference and organization. They serve a couple of key purposes, but mainly when working with others or following instructions , these numbers allow for clear communication about where components should be placed. 
 
 Step 8. Take out your LED - 5 mm. In electrical and electronic components like diodes and LEDs (Light Emitting Diodes), the terms "anode" and "cathode" refer to the polarity of the terminals:
 
-    - Anode: The anode is the positive (+) terminal of the component. For an LED, the anode is the longer leg and is connected to the positive side of the power source.
+- Anode: The anode is the positive (+) terminal of the component. For an LED, the anode is the longer leg and is connected to the positive side of the power source.
 
-    - Cathode: The cathode is the negative (−) terminal. For an LED, the cathode is the shorter leg and is typically connected to the ground or the negative side of the power source.
+- Cathode: The cathode is the negative (−) terminal. For an LED, the cathode is the shorter leg and is typically connected to the ground or the negative side of the power source.
 
 Step 9. Place the longer leg of the LED (The anode, positive (+) leg) into h21 on the breadboard. Place the shorter leg of the LED (The cathode, negative (-) leg) into h20 on the breadboard.
 
