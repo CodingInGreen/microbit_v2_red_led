@@ -6,7 +6,7 @@ The purpose of this project is to demonstrate basic digital output control using
 
 References 
 - Rust Discovery Book for micro:bit 
- - https://docs.rust-embedded.org/discovery/microbit/index.html
+   - https://docs.rust-embedded.org/discovery/microbit/index.html
 - Pinout Diagram for micro:bit V2
    - https://tech.microbit.org/hardware/edgeconnector/#pins-and-signals
 - Kitronik Edge Connector Breakout Board - Find Datasheet here:
