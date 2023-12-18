@@ -35,7 +35,7 @@ You've already installed Rust on your local machine - if you haven't, refer to t
 
     https://docs.rust-embedded.org/discovery/microbit/03-setup/index.html
 
-Step 1. - Clone this repository to your local machine on in your terminal window.
+Step 1. - Clone this repository to your local machine from your terminal window.
 
     git clone https://github.com/CodingInGreen/microbit_v2_red_led.git
 
@@ -45,7 +45,7 @@ Move into microbit_v2_red_led directory in the terminal.
 
 Step 2. - Review the code in main.rs. You'll see detailed comments on what every line of code does. The main goal we're trying to accomplish with main.rs is setting the micro:bit V2's voltage to high through pin 1 on the Kitronik Edge Connector Breakout Board. Refer to the Pinout Diagram for micro:bit V2 hyperlink above to see how the code translates into physical pins on the Kitronik Edge Connector Breakout Board.
 
-Step 3. - Plug your micro:bit V2 intoto your computer using the USB cable. 
+Step 3. - Plug your micro:bit V2 into your computer using the USB cable. 
 
 Step 4. - Setup your micro:bit V2 as the target to be flashed.
 
